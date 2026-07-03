@@ -93,3 +93,9 @@ I will try hard to get the money to you. The best option for me is PayPal, but w
 ## Server installer
 
 (TODO)
+
+## Contact
+
+If you have any questions, there is a \#contest channel on [the Discord](https://discord.goldsrc.one/)
+
+Or send me an email to info@goldsrc.one
