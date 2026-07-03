@@ -1,3 +1,5 @@
+![CrossPlay](crossfireplay-crop700.jpg)
+
 # GoldSrc.one summer contest 2026
 
 **Competition period:** July 1 -- August 31, 2026
