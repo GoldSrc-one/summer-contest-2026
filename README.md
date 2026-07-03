@@ -10,7 +10,7 @@
 
 ## Mapping contest
 
-Create a map designed for the GoldSrc.one crossplay server.
+Create a map designed for the [GoldSrc.one crossplay server](https://goldsrc.one/).
 
 ### Rules
  - The map must be new, without prior public release
@@ -50,7 +50,7 @@ Join [the Discord](https://discord.goldsrc.one/) so we can share the mapping kno
 
 ## Moviemaking contest
 
-Create a video related to the GoldSrc.one crossplay project. Could be a fragmovie, could be a trailer, anything audiovisual.
+Create a video related to the [GoldSrc.one crossplay project](https://goldsrc.one/). Could be a fragmovie, could be a trailer, anything audiovisual.
 
 ### Rules
 
@@ -92,7 +92,13 @@ I will try hard to get the money to you. The best option for me is PayPal, but w
 
 ## Server installer
 
-(TODO)
+If you don't have access to the server installer yet, for the purposes of this contest you can get the Installer here:
+
+[GoldSrcOne-CrossPlay-Installer-v12.exe](GoldSrcOne-CrossPlay-Installer-v12.exe)
+
+[There is a video about the Installer](https://www.youtube.com/watch?v=WSuvD9zUQoY). There were major changes since, but the main idea should still hold.
+
+If you would like to edit some of the amxx scripts, contact me and I will give you access to the scripting repository.
 
 ## Contact
 
