@@ -94,7 +94,7 @@ I will try hard to get the money to you. The best option for me is PayPal, but w
 
 If you don't have access to the server installer yet, for the purposes of this contest you can get the Installer here:
 
-[GoldSrcOne-CrossPlay-Installer-v12.exe](GoldSrcOne-CrossPlay-Installer-v12.exe)
+[GoldSrcOne-CrossPlay-Installer-v13.exe](GoldSrcOne-CrossPlay-Installer-v13.exe)
 
 [There is a video about the Installer](https://www.youtube.com/watch?v=WSuvD9zUQoY). There were major changes since, but the main idea should still hold.
 
