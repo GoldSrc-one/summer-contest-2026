@@ -4,7 +4,7 @@
 
 **Competition period:** July 1 -- August 31, 2026
 
-**Categories:** mapping, moviemaking
+**Categories:** Mapping, moviemaking. Make a map or a movie. Or both.
 
 **Prizes in each category:** 🥇 1st: \$50 🥈 2nd: \$30 🥉 3rd: \$20
 
@@ -42,7 +42,7 @@ For example, we can run dod_charlie no problem. But we cannot run de_vegas nor d
 There is also a limit on the number of used sounds, but that isn't usually a problem.
 
 There are also some benefits. You can use entities from the other games. For example you can make a CS map and put a HL monster in.
-You just need to change its classname from monster_zombie to valve/monster_zombie.
+You just need to change its classname from monster_zombie to valve/monster_zombie. [There is a video with a little more detail.](https://www.youtube.com/watch?v=nuACTL7vVWw)
 
 To test the map properly you will need to get the [server installer](#server-installer).
 
@@ -76,11 +76,37 @@ If you want to record a play with your friends or something fun with bots, you c
 
 ## Entry submission, Judging, Prizes and payout
 
-The how-to submit your entry will be specified later.
+To submit the entry, send an email to info@goldsrc.one
 
-After August 31st the contest will be closed and the entries will be judged.
+Inside that email you must specify:
+
+```
+Contact email/discord: (where can I reach you, this will not show up anywhere)
+Author name: (your nickname or full name that is up to you, this will be public)
+Title of the entry: (map name / title of the video, public)
+Screenshot / thumbnail: (public)
+Short description: (few sentences about your entry, optional, public)
+For what game the map is: (only for maps, just tell me the game: valve/gearbox/cstrike/tfc/...)
+
+Link to download (will stay private) / attach to email if small enough.
+If it is a map, I will need the bsp + resources AND the source file (rmf or similar, will stay private)
+If it is a video, I will need the rendered video (mp4 or similar)
+```
 
 Entries may be disqualified in case of a rule violation or other dishonesty.
+
+After August 31st the contest will be closed and the vote will begin.
+
+The map entries will be uploaded to the game server and put into the maplist so anyone can try them out.
+
+The video entries will be uploaded to the GoldSrc.one youtube channel so anyone can watch them.
+
+There will be a list of entries with links to download the maps and to watch the videos.
+
+Until September 15th there will be an option to vote.
+Eligible members of the GoldSrc.one community will get the option to select their top-3 choices. [^eligibility]
+Based on those personal top-3 choices a total order of submitted entries will be established. [^voting-algo]
+The winners will be announced afterwards.
 
 The author of the best map will get \$50, the second best will get \$30, the third \$20.
 
@@ -94,7 +120,7 @@ I will try hard to get the money to you. The best option for me is PayPal, but w
 
 If you don't have access to the server installer yet, for the purposes of this contest you can get the Installer here:
 
-[GoldSrcOne-CrossPlay-Installer-v13.exe](GoldSrcOne-CrossPlay-Installer-v13.exe)
+[GoldSrcOne-CrossPlay-Installer-v14.exe](GoldSrcOne-CrossPlay-Installer-v14.exe)
 
 [There is a video about the Installer](https://www.youtube.com/watch?v=WSuvD9zUQoY). There were major changes since, but the main idea should still hold.
 
@@ -105,3 +131,7 @@ If you would like to edit some of the amxx scripts, contact me and I will give y
 If you have any questions, there is a \#contest channel on [the Discord](https://discord.goldsrc.one/)
 
 Or send me an email to info@goldsrc.one
+
+[^eligibility]: The criteria for who will be able to vote will be disclosed later to prevent cheating.
+
+[^voting-algo]: I still need to decide on the exact voting algorithm.
